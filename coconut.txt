@@ -1,0 +1,3 @@
+La reponse est 42.
+42 expose en 2 vaut 1764.
+Enfin je cr0is.
